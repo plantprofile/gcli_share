@@ -1,0 +1,1 @@
+gdrive-linux-x64 list --query "fullText contains '${1}'"
